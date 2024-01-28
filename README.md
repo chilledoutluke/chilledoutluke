@@ -2,7 +2,7 @@
 
  I'm a 28-year-old Front End Engineer based in South Africa, and I'm passionate about crafting digital adventures 🚀
 
-- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/luke-yengopal-a40250231/).
+- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/chilledoutluke/).
 
 ## 📦 Toolbox
 
@@ -19,4 +19,4 @@
 
 ## 📫 Contact
 
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/luke-yengopal-a40250231/). 
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/chilledoutluke/). 
