@@ -1,16 +1,22 @@
-### Hi there 👋
+ ## Hey, I'm Luke 👋
 
-<!--
-**chilledoutluke/chilledoutluke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm a 28-year-old Front End Engineer based in South Africa, and I'm passionate about crafting digital adventures 🚀
 
-Here are some ideas to get you started:
+- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/luke-yengopal-a40250231/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📦 Toolbox
+
+**Frontend Development:** `HTML` `CSS` `React`
+ 
+**Version Control:** `Git`
+
+ 
+## ✨ Fun Facts 
+
+- Jujutsu Kaisen is my favourite anime.
+- As a kid, I wanted to be a Nascar Driver.
+
+
+## 📫 Contact
+
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/luke-yengopal-a40250231/). 
