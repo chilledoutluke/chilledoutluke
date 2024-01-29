@@ -1,6 +1,6 @@
  ## Hey, I'm Luke 👋
 
- I'm a 28-year-old Front End Engineer based in South Africa, and I'm passionate about crafting digital adventures 🚀
+ I'm a Front End Engineer based in South Africa, and I'm passionate about making cool stuff online thats immersive and user-friendly. 🚀
 
 - Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/chilledoutluke/).
 
