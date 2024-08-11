@@ -1,4 +1,4 @@
- ## Hey, I'm Luke 👋
+ ## Hey, I'm Luke 👋🏽
 
  I'm a Front End Engineer based in South Africa, and I'm passionate about making cool stuff online thats immersive and user-friendly. 🚀
 
@@ -13,7 +13,7 @@
  
 ## ✨ Fun Facts 
 
-- Jujutsu Kaisen is my favourite anime.
+- Overlord is my favourite anime. 💀
 - As a kid, I wanted to be a Nascar Driver.
 
 
